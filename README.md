@@ -25,5 +25,6 @@
 
 <p align="center">
     <a href="https://twitter.com/ykkcode" target="blank"><img align="center" src="https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter" alt="ykkcode"/></a>    
-    <a href="https://theykk.medium.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium" alt="@theykk"/></a>      
+    <a href="https://theykk.medium.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium" alt="@theykk"/></a>   
+      <a href="https://www.linkedin.com/in/kaan-karakaya/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=linkedin" alt="kaan-karakaya"/></a>  
 </p>
