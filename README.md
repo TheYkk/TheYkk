@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Kaan Karakaya</h1>
-<h3 align="center">An Open source Developer</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
