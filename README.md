@@ -27,3 +27,6 @@
     <a href="https://theykk.medium.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium" alt="@theykk"/></a>   
       <a href="https://www.linkedin.com/in/kaan-karakaya/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=linkedin" alt="kaan-karakaya"/></a>  
 </p>
+
+<a href="https://newsrejobs.co" target="blank" alt="New Sre Jobs"><img align="center" height="50" src="https://newsrejobs.com/logo_text.png" alt="new sre jobs logo"/></a>    
+
