@@ -28,5 +28,3 @@
       <a href="https://www.linkedin.com/in/kaan-karakaya/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=linkedin" alt="kaan-karakaya"/></a>  
 </p>
 
-<a href="https://newsrejobs.com" target="blank" alt="New Sre Jobs"><img align="center" height="50" src="https://newsrejobs.com/logo_text.png" alt="new sre jobs logo"/></a>    
-
